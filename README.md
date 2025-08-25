@@ -1,4 +1,4 @@
-# # 💫 About Me:
+# 💫 About Me:
 My name is Morad, and I attend Western University in London to study computer programming and analysis. Learning both front-end and back-end development is something I like to do. To increase my skill set, I've been studying low-level languages like C++ and C as well as high-level ones like Python and Java. Web design and mobile app development, especially hybrid apps, have also caught my attention! <br><br>🌍  I'm based in Ontario, Canada<br>🖥️  See my portfolio at Linkedin Profile<br>✉️  My email address is morad.b.aldoum@gmail.com<br>🧠  I'm studying Data Structures and Algorithms<br>🤝  I'm open to collaborating on exciting projects designed to enhance both coding experience and teamwork dynamics!<br>⚡  Enjoy photography, reading, and working out!
 
 # 📊 GitHub Stats:
